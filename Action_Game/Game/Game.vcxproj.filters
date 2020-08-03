@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{ed0b04a6-fecd-4a2c-a462-59a8f4639f36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Assets\modelData">
+      <UniqueIdentifier>{06086914-6aa4-4cad-9b07-6f9d357f04df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\sprite">
+      <UniqueIdentifier>{a6ce300a-b532-440d-b914-b4661d3015ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\level">
+      <UniqueIdentifier>{efbfbacb-2213-495b-8b7d-1f4aaccb1be5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\animData">
+      <UniqueIdentifier>{8f4664ab-b17b-4210-8cb3-66842fdadbc2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameTitle.cpp" />
+    <ClCompile Include="BackGround.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="GameCamera.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="JumpStand.cpp" />
+    <ClCompile Include="MoveBoard.cpp" />
+    <ClCompile Include="MoveBoardBase.cpp" />
+    <ClCompile Include="Stage1.cpp" />
+    <ClCompile Include="MoveBoardBig.cpp" />
+    <ClCompile Include="GoalStar.cpp" />
+    <ClCompile Include="Stage2.cpp" />
+    <ClCompile Include="Stage3.cpp" />
+    <ClCompile Include="StageBase.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameTitle.h" />
+    <ClInclude Include="BackGround.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="GameCamera.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="JumpStand.h" />
+    <ClInclude Include="MoveBoard.h" />
+    <ClInclude Include="MoveBoardBase.h" />
+    <ClInclude Include="Stage1.h" />
+    <ClInclude Include="MoveBoardBig.h" />
+    <ClInclude Include="GoalStar.h" />
+    <ClInclude Include="Stage2.h" />
+    <ClInclude Include="Stage3.h" />
+    <ClInclude Include="StageBase.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <MeshContentTask Include="Assets\modelData\unityChan.fbx">
+      <Filter>Assets\modelData</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Assets\modelData\ActionBG.FBX">
+      <Filter>Assets\modelData</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Assets\modelData\JumpStand.FBX">
+      <Filter>Assets\modelData</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Assets\modelData\MoveBoard.FBX">
+      <Filter>Assets\modelData</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Assets\modelData\Enemy.fbx" />
+    <MeshContentTask Include="Assets\modelData\MoveBoardBig.fbx" />
+    <MeshContentTask Include="Assets\modelData\GoalStar.fbx" />
+    <MeshContentTask Include="Assets\modelData\Stage01.fbx" />
+    <MeshContentTask Include="Assets\modelData\Stage01Ground.fbx" />
+    <MeshContentTask Include="Assets\modelData\kaidanBig.fbx" />
+    <MeshContentTask Include="Assets\modelData\kaidan.fbx" />
+    <MeshContentTask Include="Assets\modelData\hakoHigh.fbx" />
+    <MeshContentTask Include="Assets\modelData\hako.fbx" />
+    <MeshContentTask Include="Assets\modelData\dodai.fbx" />
+    <MeshContentTask Include="Assets\modelData\ashiba.fbx" />
+    <MeshContentTask Include="Assets\modelData\ashibaHigh.fbx" />
+    <MeshContentTask Include="Assets\modelData\Stage02Ground.fbx" />
+    <MeshContentTask Include="Assets\modelData\Stage03Ground.fbx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="Assets\sprite\dummy.png">
+      <Filter>Assets\sprite</Filter>
+    </ImageContentTask>
+    <ImageContentTask Include="Assets\sprite\title.png">
+      <Filter>Assets\sprite</Filter>
+    </ImageContentTask>
+    <ImageContentTask Include="Assets\sprite\GameOver.png" />
+    <ImageContentTask Include="Assets\sprite\Player_HP.png" />
+    <ImageContentTask Include="Assets\sprite\Player_HP_Bar.png" />
+    <ImageContentTask Include="Assets\sprite\GameClear.png" />
+    <ImageContentTask Include="Assets\sprite\gameTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\level\Mylevel_00.tkl">
+      <Filter>Assets\level</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\clear.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\damage.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\idle.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\jump.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\KneelDown.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\run.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\animData\unityChan\walk.tka">
+      <Filter>Assets\animData</Filter>
+    </None>
+    <None Include="Assets\level\myStage_01.tkl" />
+    <None Include="Assets\level\myStage_02.tkl" />
+    <None Include="Assets\level\myStage_03.tkl" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,152 @@
+﻿'Game.exe' (Win32): 'C:\Users\GC201920\Desktop\Action_Game\Game\x64\Preview\Game.exe' が読み込まれました。シンボルが読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ntdll.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\kernel32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\user32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\win32u.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\D3DCompiler_47.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\d3d11.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\gdi32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\XInput1_4.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\combase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\cryptsp.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ole32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\advapi32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\winmm.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\XAudio2_9.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\sechost.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\dxgi.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\oleaut32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\devobj.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\avrt.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\MMDevAPI.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.418_none_17b1a56c6d9fd02b\GdiPlus.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\DXCore.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\imm32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\InputHost.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\SHCore.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\propsys.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ntmarta.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\uxtheme.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msctf.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\iertutil.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\clbcatq.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPTIP.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\shell32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\windows.storage.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\profapi.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\powrprof.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\umpdc.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\shlwapi.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\oleacc.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\version.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPAPI.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\bcrypt.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\crypt32.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msasn1.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMJKAPI.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\policymanager.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\msvcp110_win.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPPRED.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\cabinet.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMETIP.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\dui70.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\imecfm.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\wer.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvtf.inf_amd64_57d645b97c3ae149\nvdlistx.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvtf.inf_amd64_57d645b97c3ae149\nvdlistx.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvtf.inf_amd64_57d645b97c3ae149\nvldumdx.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\wintrust.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\imagehlp.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\rsaenh.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\cryptbase.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvtf.inf_amd64_57d645b97c3ae149\nvwgf2umx.dll' が読み込まれました。
+スレッド 0x1850 はコード 0 (0x0) で終了しました。
+'Game.exe' (Win32): 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMESEARCHDLL.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\wer.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\imecfm.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\dui70.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMETIP.DLL' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\oleacc.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPTIP.DLL' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMESEARCHDLL.DLL' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPTIP.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\oleacc.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMETIP.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\dui70.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\imecfm.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\wer.dll' が読み込まれました。
+onecore\com\combase\objact\objact.cxx(834)\combase.dll!00007FFDFD4280F3: (caller: 00007FFDFD4273B6) ReturnHr(1) tid(710) 800401F0 CoInitialize は呼び出されていません。
+onecore\com\combase\objact\objact.cxx(834)\combase.dll!00007FFDFD4280F3: (caller: 00007FFDFD4273B6) ReturnHr(2) tid(710) 800401F0 CoInitialize は呼び出されていません。
+'Game.exe' (Win32): 'C:\Windows\System32\AudioSes.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMESEARCHDLL.DLL' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\deviceaccess.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\dwmapi.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dc_base.inf_amd64_2546eb804e2c7090\igd10iumd64.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ncrypt.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\ntasn1.dll' が読み込まれました。
+'Game.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dc_base.inf_amd64_2546eb804e2c7090\igc64.dll' が読み込まれました。
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。JumpStand
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。JumpStand
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。JumpStand
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。MoveBoard
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。MoveBoard
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。MoveBoard
+TK_WARNING : 同名のボーンが見つかりました。未定の動作です。データを修正してください。MoveBoard
+'Game.exe' (Win32): 'C:\Windows\System32\wer.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\imecfm.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\dui70.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMETIP.DLL' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\oleacc.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\IMEJP\IMJPTIP.DLL' がアンロードされました
+スレッド 0x4bc はコード 0 (0x0) で終了しました。
+スレッド 0x4808 はコード 0 (0x0) で終了しました。
+スレッド 0x1038 はコード 0 (0x0) で終了しました。
+'Game.exe' (Win32): 'C:\Windows\System32\deviceaccess.dll' がアンロードされました
+'Game.exe' (Win32): 'C:\Windows\System32\IME\SHARED\IMESEARCHDLL.DLL' がアンロードされました
+スレッド 0x1ca4 はコード 0 (0x0) で終了しました。
+スレッド 0x1a68 はコード 0 (0x0) で終了しました。
+スレッド 0x41c はコード 0 (0x0) で終了しました。
+スレッド 0x2db4 はコード 0 (0x0) で終了しました。
+スレッド 0x4e94 はコード 0 (0x0) で終了しました。
+スレッド 0x3acc はコード 0 (0x0) で終了しました。
+スレッド 0x3550 はコード 0 (0x0) で終了しました。
+スレッド 0x2d44 はコード 0 (0x0) で終了しました。
+スレッド 0x4b58 はコード 0 (0x0) で終了しました。
+スレッド 0x1674 はコード 0 (0x0) で終了しました。
+スレッド 0x944 はコード 0 (0x0) で終了しました。
+スレッド 0x29a8 はコード 0 (0x0) で終了しました。
+スレッド 0x3054 はコード 0 (0x0) で終了しました。
+スレッド 0x4d8c はコード 0 (0x0) で終了しました。
+スレッド 0x3f78 はコード 0 (0x0) で終了しました。
+スレッド 0x1050 はコード 0 (0x0) で終了しました。
+スレッド 0x1ed4 はコード 0 (0x0) で終了しました。
+スレッド 0x36d4 はコード 0 (0x0) で終了しました。
+スレッド 0x2ff0 はコード 0 (0x0) で終了しました。
+プログラム '[11336] Game.exe' はコード 0 (0x0) で終了しました。
